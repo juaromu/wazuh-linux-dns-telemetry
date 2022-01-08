@@ -1,0 +1,1 @@
+# wazuh-linux-dns-telemetry
